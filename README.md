@@ -26,7 +26,7 @@ localized values and formatting of numeric values into their localized patterns.
 Run the following command to install the latest version of the package
 
 ```bash
-composer require propaganistas/laravel-intl
+composer require oscar-team/laravel-intl
 ```
 
 #### Laravel
